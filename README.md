@@ -15,9 +15,9 @@ This PRS initiative from our Valle Grande Institute offers benefits to the resid
 **🛠️ Setup Instructions (Imperatives)**
 
 1. Clone the repository:
-    git clone https://github.com/YourOrg/cetpro-social-project.git
+    git clone https://github.com/SantiagoPrada3/vg-jass-english.git
 2. Navigate into backend:
-    cd cetpro-social-project/backend
+    cd vg-ms-boxes-assignment/backend
 3. Run Spring Boot app:
     ./mvnw spring-boot:run
 4. Navigate into frontend:
