@@ -1,0 +1,13 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://santiago:santiago19@cluster0.b7mgq.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+      database: nosql
+
+server:
+  port: 8080
+
+app:
+  name: Structure Microservice
+  description: API para la gestión de estructuras
+  version: 1.0.0
