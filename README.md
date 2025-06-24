@@ -38,13 +38,8 @@ This PRS initiative from our Valle Grande Institute offers benefits to the resid
 
 **📁 Repository Structure**
 
-/vg-ms-boxes-assignment
-├── backend/        # Java 17 + Spring Boot REST API
-├── frontend/       # Angular app
-├── README.md       # ← You are here
-├── CONTRIBUTING.md # Contribution guidelines
-├── .env.example    # Environment variables template
-└── docs/           # Project documentation & diagrams
+![image](https://github.com/user-attachments/assets/7dab209d-129b-4091-8983-9e4f3a784594)
+
 
 **🧑‍🏫 Contributing (Imperatives & Advice)**
 
